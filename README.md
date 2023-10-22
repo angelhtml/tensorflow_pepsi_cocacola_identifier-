@@ -5,7 +5,7 @@
 </p>
 
 <h1>How to use ⁉</h1>
-<p>First of all download the data set from <a href="https://www.kaggle.com/datasets/die9origephit/pepsi-and-cocacola-images/data">here</a></p>
+<p>First of all download the dataset from <a href="https://www.kaggle.com/datasets/die9origephit/pepsi-and-cocacola-images/data">here</a></p>
 <p>Then extract the zip inside the input folder</p>
 
 <h3>Train your dataset</h3>
