@@ -15,9 +15,11 @@ python train.py
 
 <h3>Test your model</h3>
 enter your test image here
+
 ```py
 image = tf.keras.utils.load_img("input/test/pepsi/18.jpg",target_size=(25,25))
 ```
+
 ```cmd
 python test.py
 ```
