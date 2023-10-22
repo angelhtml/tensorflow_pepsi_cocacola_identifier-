@@ -9,6 +9,7 @@
 <p>Then extract the zip inside the input folder</p>
 
 <h3>Train your dataset</h3>
+
 ```cmd
 python train.py
 ```
