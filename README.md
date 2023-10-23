@@ -24,4 +24,3 @@ image = tf.keras.utils.load_img("input/test/pepsi/18.jpg",target_size=(25,25))
 ```cmd
 python test.py
 ```
-
